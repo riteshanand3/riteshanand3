@@ -1,4 +1,4 @@
-/*![MasterHead](https://user-images.githubusercontent.com/61381501/183574351-21f83b15-e6e9-4e8e-b06a-a30ffa7b119f.png)*/
+
 <h1 align="center">Hi 👋, I'm Ritesh Anand</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
