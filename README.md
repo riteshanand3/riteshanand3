@@ -1,3 +1,4 @@
+![image](https://github.com/riteshanand3/riteshanand3/assets/133976011/efc8725a-8b3e-4ce1-a37e-717869ce2ced)
 
 <h1 align="center">Hi 👋, I'm Ritesh Anand</h1>
 <h3 align="center">A passionate fullstack developer</h3>
