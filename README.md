@@ -1,4 +1,5 @@
-![image](https://github.com/riteshanand3/riteshanand3/assets/133976011/efc8725a-8b3e-4ce1-a37e-717869ce2ced)
+![Ritesh Anand (1)](https://github.com/riteshanand3/riteshanand3/assets/133976011/b5774aea-e540-4418-98c0-430e58e1cf97)
+
 
 <h1 align="center">Hi 👋, I'm Ritesh Anand</h1>
 <h3 align="center">A passionate fullstack developer</h3>
@@ -10,7 +11,8 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **Nodejs,GitBash, JavaScript, HTML, CSS, **
+- 💬 Ask me about **Nodejs,GitBash, JavaScript, HTML, CSS, 
+
 
 - 📫 How to reach me **i.riteshanand@gmail.com**
 
