@@ -1,4 +1,4 @@
-![Ritesh Anand (1)](https://github.com/riteshanand3/riteshanand3/assets/133976011/b5774aea-e540-4418-98c0-430e58e1cf97)
+![Ritesh Anand (1)](https://github.com/riteshanand3/assets/133976011/b5774aea-e540-4418-98c0-430e58e1cf97)
 
 
 <h1 align="center">Hi 👋, I'm Ritesh Anand</h1>
